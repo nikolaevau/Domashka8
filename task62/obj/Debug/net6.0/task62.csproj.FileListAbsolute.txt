@@ -1,0 +1,15 @@
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\bin\Debug\net6.0\task62.exe
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\bin\Debug\net6.0\task62.deps.json
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\bin\Debug\net6.0\task62.runtimeconfig.json
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\bin\Debug\net6.0\task62.dll
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\bin\Debug\net6.0\task62.pdb
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\obj\Debug\net6.0\task62.csproj.AssemblyReference.cache
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\obj\Debug\net6.0\task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\obj\Debug\net6.0\task62.AssemblyInfoInputs.cache
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\obj\Debug\net6.0\task62.AssemblyInfo.cs
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\obj\Debug\net6.0\task62.csproj.CoreCompileInputs.cache
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\obj\Debug\net6.0\task62.dll
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\obj\Debug\net6.0\refint\task62.dll
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\obj\Debug\net6.0\task62.pdb
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\obj\Debug\net6.0\task62.genruntimeconfig.cache
+C:\Users\troyn\OneDrive\Рабочий стол\GeekBrains\domashka\Domashka8\task62\obj\Debug\net6.0\ref\task62.dll
